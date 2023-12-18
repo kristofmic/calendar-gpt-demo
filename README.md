@@ -4,9 +4,12 @@ This project is something I build as part of a take-home exercise. It relies on 
 natural language and create new calendar events. Editing events is done using traditional UI
 elements (e.g., a form).
 
-**Calendar View** ![calendar view](./public/calendar-view.png 'Calendar View')
+### Calendar View
 
-**Meeting Details View**
+![calendar view](./public/calendar-view.png 'Calendar View')
+
+### Meeting Details View
+
 ![meeting details view](./public/meeting-details-view.png 'Meeting Details View')
 
 # Scope and Design
