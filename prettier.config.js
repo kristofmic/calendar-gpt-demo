@@ -1,0 +1,16 @@
+module.exports = {
+    printWidth: 100,
+    tabWidth: 4,
+    useTabs: false,
+    semi: true,
+    singleQuote: true,
+    jsxSingleQuote: true,
+    trailingComma: 'all',
+    bracketSpacing: true,
+    bracketSameLine: false,
+    arrowParens: 'always',
+    proseWrap: 'always',
+    endOfLine: 'lf',
+    plugins: ['prettier-plugin-tailwindcss', '@trivago/prettier-plugin-sort-imports'],
+    tailwindConfig: './tailwind.config.js',
+};
